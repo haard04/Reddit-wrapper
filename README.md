@@ -1,6 +1,5 @@
 # Reddit Wrapper Web Application
 
-![Reddit Wrapper Logo](path/to/your/logo.png) <!-- Optional: Add a project logo if you have one -->
 
 This is a simple web application that fetches articles from a Reddit subreddit using the Reddit API. The application has both a backend and a frontend component.
 
