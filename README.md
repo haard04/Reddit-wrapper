@@ -59,5 +59,5 @@ Follow these steps to set up and run the Reddit Wrapper web application:
 
 
 **Happy coding!**
-```
+
 
